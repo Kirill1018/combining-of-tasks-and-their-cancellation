@@ -1,0 +1,9 @@
+﻿<Application x:Class="Combining_of_tasks_and_their_cancellation.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Combining_of_tasks_and_their_cancellation"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
